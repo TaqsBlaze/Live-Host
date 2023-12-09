@@ -63,6 +63,7 @@ action depending on the results from live-host
 		"Topic :: Utility",
 		"License :: OSI Approved :: Apache 2.0 License",
 		],
+	long_description_content_type="text/markdown",
 	python_requires=">=3.8",
 	long_description_content_type="text/markdown",
 )
