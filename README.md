@@ -34,7 +34,7 @@ action depending on the results from live-host
 - The source code for this module is available at [https://github.com/TaqsBlaze/Live-Host](https://github.com/TaqsBlaze/Live-Host).
 
 - ## License 📃
-- This module is licensed under the Apache 2.0 License. See the LICENSE file for more information.
+- This module is licensed under the MIT License. See the LICENSE file for more information.
 
 - ## Note
 - Live-Host is still under development any contributions are welcomed
