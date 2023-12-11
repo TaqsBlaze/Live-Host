@@ -10,7 +10,7 @@ headers = {}
 
 
 
-def is_alive(target_host):
+def is_live(target_host):
 	
 	headers["User-Agent"] = UserAgents[random.randrange(0,UserAgents - 1)]
 	if target_host.startswith("https://"):
