@@ -8,7 +8,7 @@ setup(
     author_email="tanakah30@gmail.com",
     long_description="""
 ### Live-Host
-### Live-Host a robust module for checking is a host is live
+### Live-Host a robust module for checking if a host is live
 
 - This module checks if a target host is alive by sending a get request to the host.
 
