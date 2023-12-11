@@ -12,7 +12,7 @@ headers = {}
 
 def is_live(target_host):
 	
-	headers["User-Agent"] = UserAgents[random.randrange(0,UserAgents - 1)]
+	headers["User-Agent"] = UserAgents[random.randrange(0,len(UserAgents) - 1)]
 	if target_host.startswith("https://"):
 		status = requests.get(url = target_host, headers = headers)
 	

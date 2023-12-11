@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name="live_host",
-    version="1.0.2",
+    version="1.0.4",
     author="Tanaka Chinengundu",
     author_email="tanakah30@gmail.com",
     long_description="""
