@@ -59,7 +59,6 @@ action depending on the results from live-host
     	"Development Status :: 3 - Alpha",
 		"Intended Audience :: Developers",
 		"Topic :: Software Development",
-		"Topic :: Utility",
 		"License :: OSI Approved :: MIT License",
 		],
 	long_description_content_type="text/markdown",
