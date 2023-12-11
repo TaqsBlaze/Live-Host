@@ -7,7 +7,7 @@ setup(
     author="Tanaka Chinengundu",
     author_email="tanakah30@gmail.com",
     long_description="""
-
+### Live-Host
 ### Live-Host a robust module for checking is a host is live
 
 - This module checks if a target host is alive by sending a get request to the host.
@@ -58,12 +58,13 @@ action depending on the results from live-host
     classifiers=[
     	"Development Status :: 3 - Alpha",
 		"Intended Audience :: Developers",
-		"Topic :: Communications",
+		"Topic :: Ping",
+		"Topic :: Live host",
 		"Topic :: Software Development",
 		"Topic :: Utility",
 		"License :: OSI Approved :: Apache 2.0 License",
 		],
 	long_description_content_type="text/markdown",
-	python_requires=">=3.8",
-	long_description_content_type="text/markdown",
+	python_requires=">=3.8"
 )
+
