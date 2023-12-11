@@ -59,7 +59,8 @@ action depending on the results from live-host
     	"Development Status :: 3 - Alpha",
 		"Intended Audience :: Developers",
 		"Topic :: Software Development",
-		"License :: OSI Approved :: Apache License",
+		"Topic :: Utility",
+		"License :: OSI Approved :: MIT License",
 		],
 	long_description_content_type="text/markdown",
 	python_requires=">=3.8"
