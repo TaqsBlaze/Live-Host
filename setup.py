@@ -58,8 +58,6 @@ action depending on the results from live-host
     classifiers=[
     	"Development Status :: 3 - Alpha",
 		"Intended Audience :: Developers",
-		"Topic :: Ping",
-		"Topic :: Live host",
 		"Topic :: Software Development",
 		"Topic :: Utility",
 		"License :: OSI Approved :: Apache 2.0 License",
